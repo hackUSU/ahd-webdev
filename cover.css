@@ -34,8 +34,7 @@ body {
   -ms-filter: grayscale(0);
 }
 
-/* Atomic Logo */
-#atomic-logo {
+#profile-logo {
   padding-left: 10px;
   height: 50px;
   width: auto;
@@ -63,6 +62,10 @@ i {
   transition: color 0.5s ease;
   color: rgb(80, 80, 80);
 }
+#ig-icon {
+  transition: color 0.5s ease;
+  color: rgb(80, 80, 80);
+}
 /* Icon Hover */
 #gh-icon:hover {
   color: rgb(60, 60, 60);
@@ -77,6 +80,9 @@ i {
 }
 #tw-icon:hover {
   color: rgb(85, 172, 238);
+}
+#ig-icon:hover {
+  color: rgb(59, 89, 152);
 }
 
 /* Links */
